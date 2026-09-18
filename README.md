@@ -4,16 +4,16 @@ A web-based portal developed in **PHP** and **MySQL** to streamline and automate
 
 ---
 
-## 📌 Features
+##  Features
 
-### 👨‍🎓 Student Portal
+###  Student Portal
 - **User Authentication:** Registration, login, session validation, and secure profile management.
 - **Scholarship Discovery:** Browse available scholarship opportunities and review eligibility criteria.
 - **Online Application:** Submit scholarship applications with required academic and background details.
 - **Document Management:** Upload supporting financial, identification, and academic documents.
 - **Application Tracking:** Monitor review status (Pending, Approved, Rejected) in real time.
 
-### 🛡️ Admin Dashboard
+###  Admin Dashboard
 - **Scholarship Administration:** Create, configure, update, or close scholarship schemes.
 - **Application Review:** Inspect submitted applicant profiles, verify documents, and update statuses.
 - **Applicant Directory:** Filter and search registered students and their submissions.
@@ -22,7 +22,7 @@ A web-based portal developed in **PHP** and **MySQL** to streamline and automate
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -33,7 +33,7 @@ A web-based portal developed in **PHP** and **MySQL** to streamline and automate
 
 ---
 
-## 📂 Project Directory Structure
+##  Project Directory Structure
 
 ```text
 ├── admin/                  # Administrative management panel and controllers
