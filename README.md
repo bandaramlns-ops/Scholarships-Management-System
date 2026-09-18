@@ -29,7 +29,7 @@ A web-based portal developed in **PHP** and **MySQL** to streamline and automate
 | **Backend** | PHP (Native / Procedural) |
 | **Database** | MySQL |
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Web Server** | Apache (XAMPP / WAMP / LAMP) |
+| **Web Server** | Apache (XAMPP)|
 
 ---
 
